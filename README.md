@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Get in touch
+
+- [Ask Me Anything](https://github.com/posquit0/ama)
+- [Twitter](https://twitter.com/posquit0)
+- [Linked In](https://www.linkedin.com/in/posquit0/)
