@@ -1,4 +1,6 @@
-### Hi there 👋
+## Byungjin Park – 박병진
+
+### 👋 Hi there
 
 Hi! I'm Byungjin Park :neckbeard:.
 <!--
@@ -17,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Get in touch
+### 💬 Get in touch
 
 - [Ask Me Anything](https://github.com/posquit0/ama)
 - [Twitter](https://twitter.com/posquit0)
