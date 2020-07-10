@@ -1,4 +1,4 @@
-## Byungjin Park – 박병진
+# 박병진 – Byungjin Park
 
 ### 👋 Hi there
 
