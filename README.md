@@ -6,9 +6,6 @@ Super nerd who loves Vim, Linux and OS X and enjoys to customize all of the deve
 
 Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
 
-### 👋 Hi there
-
-Hi! I'm Byungjin Park :neckbeard:.
 <!--
 **posquit0/posquit0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
