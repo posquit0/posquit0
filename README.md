@@ -2,6 +2,9 @@
 
 8+ years experience specializing in the backend development, infrastructure automation, and computer hacking/security. Super nerd who loves Vim, Linux and OS X and enjoys to customize all of the development environment. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
 
+
+![Byungjin Park's GitHub Stats](https://github-readme-stats.vercel.app/api?username=posquit0&show_icons=true)
+
 <!--
 **posquit0/posquit0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
