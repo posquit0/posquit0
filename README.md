@@ -1,6 +1,6 @@
 # 박병진 – Byungjin Park
 
-9+ years experience specializing in the backend development, infrastructure automation, and computer hacking/security. Super nerd who loves Vim, Linux and OS X and enjoys to customize all of the development environment. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
+11+ years experience specializing in the backend development, infrastructure automation, and computer hacking/security. Super nerd who loves Vim, Linux and OS X and enjoys to customize all of the development environment. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
 
 
 ![Byungjin Park's GitHub Stats](https://github-readme-stats.vercel.app/api?username=posquit0&show_icons=true)
@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### I am...
+
+- Host of HashiCorp Korea User Group
+- AWS Community Builder
 
 
 ### 💬 Get in touch
