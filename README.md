@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 ### I am...
 
-- Host of HashiCorp Korea User Group
+- HashiCorp Ambassador
+- Organizaer of HashiCorp Korea User Group
 - AWS Community Builder
 
 
