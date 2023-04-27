@@ -3,7 +3,7 @@
 [![Linkedin: posquit0](https://img.shields.io/badge/-Byungjin%20Park-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/posquit0/)](https://www.linkedin.com/in/posquit0/)
 [![Twitter: posquit0](https://img.shields.io/twitter/follow/posquit0?style=social)](https://twitter.com/posquit0)
 [![GitHub posquit0](https://img.shields.io/github/followers/posquit0?label=follow&style=social)](https://github.com/posquit0)
-[![Hits](https://komarev.com/ghpvc/?username=posquit0&color=red)](https://github.com/posquit0)
+[![Hits](https://komarev.com/ghpvc/?username=posquit0&color=red&label=Hits)](https://github.com/posquit0)
 
 11+ years experience specializing in the backend development, infrastructure automation, and computer hacking/security. Super nerd who loves Vim, Linux and OS X and enjoys to customize all of the development environment. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
 
