@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 ### I am...
 
-- HashiCorp Ambassador
-- Organizaer of HashiCorp Korea User Group
+- HashiCorp Ambassador and Core Contributor
+- Organizer of HashiCorp Korea User Group
 - AWS Community Builder
 
 
